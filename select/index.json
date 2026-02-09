@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バースデイズ",
+  "base_artist": "hiroki.",
+  "createdAt": "2026-02-09T18:13:12.893463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バースデイズ",
+      "artist": "hiroki.",
+      "has_synced": false,
+      "path": "select/pl_01_バースデイズ_hiroki..txt"
+    }
+  ]
+}
